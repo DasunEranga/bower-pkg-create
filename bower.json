@@ -1,0 +1,26 @@
+{
+  "name": "bower-pkg-initiate-by-dasun",
+  "homepage": "https://github.com/DasunEranga/bower-pkg-create",
+  "authors": [
+    "Dasun <dasun@eight25media.com>"
+  ],
+  "description": "This repo is create for bower package manager testing purpose only.",
+  "main": "",
+  "keywords": [
+    "test",
+    "pkg",
+    "initiate",
+    "bower"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
